@@ -4,4 +4,6 @@ require:
 	- play
 	- play -> crud
 	- play -> secure
-    
+	
+	-play 
+	-play -> scure
